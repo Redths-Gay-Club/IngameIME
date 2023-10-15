@@ -1,0 +1,11 @@
+{
+  "compatibilityLevel": "JAVA_8",
+  "minVersion": "0.7",
+  "package": "me.redth.ingameime.mixin",
+  "refmap": "mixins.ingameime.refmap.json",
+  "mixins": [
+    "GuiTextFieldAccessor",
+    "GuiTextFieldMixin",
+    "WindowsDisplayMixin"
+  ]
+}
